@@ -11,7 +11,7 @@ Création d'un programme communicant des sockets avec python entre les deux mach
 ### 1 . Architecture réseau de cette manipulation
 
 - **Réseau NAT**
-![[Pasted image 20230323083318.png]]
+![Nat network](Pasted image 20230323083318.png)
 
 #### Les modèles d'architecture de communication
 
